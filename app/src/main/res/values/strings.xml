@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestFireBase</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_home">Registration</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
